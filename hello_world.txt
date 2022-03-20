@@ -1,0 +1,1 @@
+Hello world, this is my first time using VSCode, and also my first time through the Odin Project Curriculum.
